@@ -12,4 +12,4 @@ python3 finetuning_llama.py
 ```
 # Project Report
 ### Note: finetuning is done only for text-generation problem using alpaca dataset.
-[click here to report](https://github.com/birdiegyal/LLMInferenceOnCPU/blob/master/LLMInferenceOnXeonSPR.pdf)
+[click here to view report](https://github.com/birdiegyal/LLMInferenceOnCPU/blob/master/LLMInferenceOnXeonSPR.pdf)
